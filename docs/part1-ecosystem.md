@@ -1,8 +1,10 @@
-# TypeScript に関する知識のまとめ
+# part 1：TypeScript の世界を知る
 
-## JavaScript の歴史
+## chap01：前書き
 
-TODO
+JavaScript の歴史
+
+- [TypeScript の世界を知る - 前書き](https://future-architect.github.io/typescript-guide/preface.html)
 
 ## chap02：Node.js エコシステム
 
@@ -198,7 +200,15 @@ console.log(`Hello ${personName}`!);
 - コードの実行には，npx 経由で ts-node を実行する
 
 ```sh
-$ npx ts-node src/chap02/first.ts 
+$ npx ts-node src/chap02/first.ts
 Hello nukopy
 ```
 
+## まとめ
+
+本章では次のようなことを学んで来た．
+
+- JavaScript のエコシステムと `package.json`
+- サンプルを動かすための最低限の環境設定
+
+次章からはコーディングの仕方を学んで行く．
