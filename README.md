@@ -4,6 +4,8 @@
 
 - リンク
   - [仕事ですぐに使える TypeScript（Future Corporation，2020/10）](https://future-architect.github.io/typescript-guide/index.html)
+- 章立てと rst ファイルの対応
+  - https://github.com/future-architect/typescript-guide/blob/79c4ad67383aa17140ed479054337f18de2a5587/docs/_sources/index.rst.txt
 
 ## 環境構築
 
