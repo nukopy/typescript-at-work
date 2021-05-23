@@ -1,3 +1,3 @@
 const personName: string = 'nukopy';
 
-console.log(`Hello ${personName}`!);
+console.log(`Hello ${personName}!`);
