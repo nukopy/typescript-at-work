@@ -2,17 +2,17 @@
   "name": "typescript-at-work",
   "version": "1.0.0",
   "description": "「仕事ですぐに使える TypeScript」（Future Corporation，2020/10）の実装リポジトリ",
-  "private": true,
   "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
   "scripts": {
-    "start": "ts-node",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nukopy/typescript-at-work.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/nukopy/typescript-at-work#readme",
   "devDependencies": {
-    "ts-node": "^9.0.0",
-    "typescript": "^4.0.5"
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.4"
   }
 }
